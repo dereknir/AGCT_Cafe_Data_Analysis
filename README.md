@@ -39,12 +39,11 @@ AGCT_Cafe_Data_Analysis/
 
 本專案包含三張互動式儀表板：
 
-1. **Sales Overview**（銷售概況）  
-2. **Customer Insights**（顧客行為洞察）  
-3. **Product Insights**（商品與品項分析）
+1. [📊 Sales Overview](https://public.tableau.com/views/AGCT_trends/SalesOverview)
+2. [👥 Customer Insights](https://public.tableau.com/views/AGCT_trends/CustomerInsights)
+3. [📦 Product Insights](https://public.tableau.com/views/AGCT_trends/ProductInsights)
 
-🔗 Tableau Public 預覽連結：
-> [👉 點此查看 AGCT Café Dashboard](https://public.tableau.com/views/AGCT_trends/CustomerInsights?:language=zh-TW&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🟡 點擊連結即可在 Tableau Public 上互動瀏覽。
 
 ---
 
