@@ -5,7 +5,7 @@
 ---
 
 ## 📁 專案結構
-
+```
 AGCT_Cafe_Data_Analysis/
 ├── data/
 │ ├── AGCT_clean_orders.csv ← 清理後的訂單明細資料
@@ -14,8 +14,8 @@ AGCT_Cafe_Data_Analysis/
 │ └── AGCT_analysis_visual.ipynb ← Python 分析與視覺化 Notebook
 ├── tableau/
 │ └── AGCT_trends.twbx ← Tableau 儀表板（含三頁）
-└── README.md ← 本說明文件
-
+└── README.md ← 說明文件
+```
 ---
 
 ## 📊 使用資料簡介
