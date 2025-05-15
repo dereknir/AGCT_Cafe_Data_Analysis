@@ -1,6 +1,7 @@
 # AGCT Café Data Analysis ☕📊
 
 本專案為咖啡廳「AGCT Apartment」半年營運數據的分析與視覺化展示，涵蓋從資料清理、商品拆解、Python 視覺化到 Tableau 儀表板製作，完整呈現中小型餐飲業的數據洞察流程。
+起始於清理後資料上傳、Python Notebook 建立、Tableau 儀表板整合，並已完成所有可視化與說明文件。
 
 ---
 
