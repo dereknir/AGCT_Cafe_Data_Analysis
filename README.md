@@ -9,6 +9,7 @@
 ```
 AGCT_Cafe_Data_Analysis/
 ├── data/
+│ ├── AGCT_apriori_rules.csv ← Apriori分析後的數據
 │ ├── AGCT_clean_orders.csv ← 清理後的訂單明細資料
 │ └── AGCT_clean_items.csv ← 拆分後的商品品項明細
 ├── notebooks/
